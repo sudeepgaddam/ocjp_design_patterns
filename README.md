@@ -1,7 +1,7 @@
 # OCJP prep and Design Pattern code snippets
 This repo is primarily to store code related to OCJP preparation and my hands on with Design Patterns
 
-Following topics are covered for OCJP:
+**Following topics are covered for OCJP**:
 1. Java Class Design
 2. Advanced Java Class Design
 3. Generics and Collections
@@ -15,7 +15,11 @@ Following topics are covered for OCJP:
 11. Building Database Applications with JDBC
 12. Localization
 
-Following are the various classes of Design Patterns:
+**Following are the various classes of Design Patterns**:
 1. Creational
 2. Structural
 3. Behavioural
+
+
+**References**:
+http://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html
