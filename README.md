@@ -14,3 +14,8 @@ Following topics are covered for OCJP:
 10. Java Concurrency
 11. Building Database Applications with JDBC
 12. Localization
+
+Following are the various classes of Design Patterns:
+1. Creational
+2. Structural
+3. Behavioural
